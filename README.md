@@ -1,2 +1,2 @@
 # spordirakendus
-Loodud evely tunniks, khk disainistiili järgi veebirakendus treeningute vaatamiesks ja registreerimiseks õpilasena, õpetajana või treenerina
+Loodud evely tunniks, khk disainistiili järgi veebirakendus treeningute vaatamiseks ja registreerimiseks õpilasena, õpetajana või treenerina
